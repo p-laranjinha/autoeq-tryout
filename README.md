@@ -1,12 +1,33 @@
+# Another try
+
+My last try with the normal AutoEq target didn't sound quite right either, felt like it removed
+depth from the sound, maybe because it was because the EQ was so different from the headphones'
+normal sound signature.
+
+Anyways, I found [a link to a Reddit post on the head(amame) discord with an EQ](https://www.reddit.com/r/VectorFinesse/comments/14etgeh/comment/jv9jpos/)
+that made the mids and highs sound a bit clearer without really changing the "depth".
+
+This Reddit post didn't specify the quality values, so I just left them at the EasyEffects' default.
+
+I also learned that the preamp is important and I shouldn't remove it just to keep the volume the
+same.
+
+[Here's the file with to the EQ (reddit.txt)](./reddit.txt) to put into an equalizer like EasyEffects.
+
+I'm not sure I'll find much better than this, so if I want a better sound signature I'll have to do
+[the Capra tuning of using velour ear pads and sticking a micropore tape on the driver.](https://github.com/CapraAudio/Headamame-Capra-Tuning/wiki)
+
 # Wasn't very good
 
-[EQing into the Capra](#using-autoeq-to-try-out-a-different-headset) didn't sound very good, but I've found I enjoy the [Online AutoEq](https://www.autoeq.app)'s
+[EQing into the Capra tuning](#using-autoeq-to-try-out-a-different-headset) didn't sound very good, but I've found I enjoy the [Online AutoEq](https://www.autoeq.app)'s
 "crinacle EARS + 711 Harman over-ear 2018" target with some small modifications, I changed the
 5th filter from "-10.6 dB" to "-1.0 dB" (basically just increased bass an abritrary amount until it
 felt good) and reset the preamp to 0dB so that it's around the same volume as no EQ, just in case I
 decided to blow my ears out by forgetting to enable it.
 
-[Here's the file with that EQ (crinacle-harman-mod.txt)](./crinacle-harman-mod.txt) to put into an equalizer like EasyEffects.
+[Here's the file with the original AutoEq's EQ (crinacle-harman.txt).](./crinacle-harman.txt)
+
+[Here's the file with the modified EQ (crinacle-harman-mod.txt).](./crinacle-harman-mod.txt)
 
 # Using autoeq to "try out" a different headset
 
